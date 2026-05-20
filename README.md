@@ -69,3 +69,18 @@ Because the Arduino Nano cannot supply the necessary current to drive the mop mo
 This project relies on built-in Arduino libraries. Ensure the following are included at the top of your sketch:
 ```cpp
 #include <SoftwareSerial.h>
+```
+
+---
+
+## Author  
+
+**Vansh Thakur**  
+B.Tech CSE (Core)  
+Chitkara University, Punjab  
+
+---
+
+## License  
+
+This project is open‑source and can be used for learning and experimentation. Add a formal license (e.g., MIT) as `LICENSE` in the repository if required.
