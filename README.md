@@ -1,4 +1,4 @@
-# 🤖 Autonomous Floor-Cleaning Rover
+# Autonomous Floor-Cleaning Rover
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform: Arduino](https://img.shields.io/badge/Platform-Arduino-blue.svg)](https://www.arduino.cc/)
@@ -6,13 +6,13 @@
 
 > An open-source, Arduino-powered smart cleaning robot featuring triple-sensor spatial awareness, a timer-based spatial bypass algorithm, and Bluetooth manual override. 
 
-## 📖 Project Overview
+## Project Overview
 
 The **Autonomous Floor-Cleaning Rover** is a versatile robotics project designed to maintain hard floor surfaces. Moving beyond simple "bump-and-turn" mechanics, this robot utilizes a 3-point ultrasonic array to detect walls and obstacles, executing a calculated 90-degree side-step maneuver to bypass obstructions while maintaining its original heading. 
 
 When autonomous mode isn't enough, the integrated HC-05 module allows seamless transition to manual control via any standard Bluetooth serial application. 
 
-### ✨ Key Features
+### Key Features
 * **Dual-Mode Operation:** Switch instantly between Autonomous navigation and Manual Bluetooth control.
 * **Smart Bypass Maneuver:** Replaces chaotic 180-degree spins with a calculated 90-degree side-step to navigate around obstacles.
 * **Independent Mop Control:** Dedicated low-side NPN switching circuit for the cleaning/mop motor.
@@ -20,7 +20,7 @@ When autonomous mode isn't enough, the integrated HC-05 module allows seamless t
 
 ---
 
-## 🛠 Hardware Architecture
+## Hardware Architecture
 
 ### Components Required
 * **Microcontroller:** Arduino Nano (ATmega328P)
@@ -41,7 +41,7 @@ Because the Arduino Nano cannot supply the necessary current to drive the mop mo
 
 ---
 
-## 🔌 Master Pinout Reference
+## Master Pinout Reference
 
 | Component | Pin / Wire | Arduino Nano Pin | Notes |
 | :--- | :--- | :--- | :--- |
@@ -56,11 +56,11 @@ Because the Arduino Nano cannot supply the necessary current to drive the mop mo
 | **Right HC-SR04**| TRIG / ECHO | `A2` / `D4` | |
 | **Mop Motor** | NPN Transistor Base| `D5` (PWM) | Variable speed control |
 
-*⚠️ **CRITICAL:** Ensure the Arduino, L298N, Bluetooth module, and all sensors share a common Ground (GND) connection.*
+* **CRITICAL:** Ensure the Arduino, L298N, Bluetooth module, and all sensors share a common Ground (GND) connection.*
 
 ---
 
-## 💻 Software Setup & Installation
+## Software Setup & Installation
 
 ### 1. Prerequisites
 * [Arduino IDE](https://www.arduino.cc/en/software) (v1.8.x or v2.x)
