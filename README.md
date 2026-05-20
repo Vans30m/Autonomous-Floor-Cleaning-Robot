@@ -32,7 +32,7 @@ When autonomous mode isn't enough, the integrated HC-05 module allows seamless t
 * **Power Supply:** 2x 18650 Li-ion Batteries (7.4V total)
 * **Switching:** 1x NPN Transistor (e.g., TIP120) + 1x Flyback Diode (1N4007) + 1kΩ Resistor
 
-### ⚡ The NPN Mop Switching Circuit
+### The NPN Mop Switching Circuit
 Because the Arduino Nano cannot supply the necessary current to drive the mop motor, we utilize an NPN transistor as a low-side switch:
 1.  **Base:** Connected to Arduino `D5` via a 1kΩ resistor.
 2.  **Collector:** Connected to the Negative (-) terminal of the mop motor.
