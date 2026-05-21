@@ -70,8 +70,26 @@ This project relies on built-in Arduino libraries. Ensure the following are incl
 ```cpp
 #include <SoftwareSerial.h>
 ```
+## Prototype and Circuit Images
+<div align="center" style="margin: 10px 0; padding: 10px 0;" > <strong>Block Diagram</strong><br>
+<img src="Images%20and%20Videos/Block_Diagram.png" alt="Project Block Diagram" width="100%"><br><br>
+</div>
+
+<div align="center" style="margin: 10px 0; padding: 10px 0;" > <strong>Circuit Diagram</strong><br>
+<img src="Images%20and%20Videos/CLEANING%20ROBOT%20(Circuit%20Diagram%20LABLED).png" alt="Circuit Diagram" width="100%"><br><br>
+</div>
+
+<div align="center" style="margin: 10px 0; padding: 10px 0;" > <strong>In Real</strong><br>
+<img src="Images%20and%20Videos/Autonomous-Floor-Cleaning-Robot.jpeg" alt="Real Image" width="25%" style="margin: 10px" ><br><br>
+</div>
 
 ---
+
+## Final Video
+
+https://github.com/user-attachments/assets/627362c7-cbc1-4910-bca0-bf3ed4362df7
+
+
 
 ## Author  
 
