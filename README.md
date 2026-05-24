@@ -88,7 +88,7 @@ This project relies on built-in Arduino libraries. Ensure the following are incl
 </div>
 
 <div align="center" style="margin: 10px 0; padding: 10px 0;" > <strong>In Real</strong><br>
-<img src="Images%20and%20Videos/Autonomous-Floor-Cleaning-Robot.png" alt="Real Image" width="25%" style="margin: 10px" ><br><br>
+<img src="Images%20and%20Videos/Autonomous-Floor-Cleaning-Robot.png" alt="Real Image" width="100%" style="margin: 10px" ><br><br>
 </div>
 
 ---
