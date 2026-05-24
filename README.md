@@ -79,8 +79,16 @@ This project relies on built-in Arduino libraries. Ensure the following are incl
 <img src="Images%20and%20Videos/CLEANING%20ROBOT%20(Circuit%20Diagram%20LABLED).png" alt="Circuit Diagram" width="100%"><br><br>
 </div>
 
+<div align="center" style="margin: 10px 0; padding: 10px 0;" > <strong>Description Chart</strong><br>
+<img src="Images%20and%20Videos/DESCRIPTION%20CHART.png" alt="Description Chart" width="100%" ><br><br>
+</div>
+
+<div align="center" style="margin: 10px 0; padding: 10px 0;" > <strong>SDG's</strong><br>
+<img src="Images%20and%20Videos/SDG.png" alt="SDG's" width="100%" ><br><br>
+</div>
+
 <div align="center" style="margin: 10px 0; padding: 10px 0;" > <strong>In Real</strong><br>
-<img src="Images%20and%20Videos/Autonomous-Floor-Cleaning-Robot.jpeg" alt="Real Image" width="25%" style="margin: 10px" ><br><br>
+<img src="Images%20and%20Videos/Autonomous-Floor-Cleaning-Robot.png" alt="Real Image" width="25%" style="margin: 10px" ><br><br>
 </div>
 
 ---
