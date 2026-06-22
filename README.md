@@ -4,7 +4,7 @@
 [![Platform: Arduino](https://img.shields.io/badge/Platform-Arduino-blue.svg)](https://www.arduino.cc/)
 [![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen.svg)]()
 
-> An open-source, Arduino-powered smart cleaning robot featuring triple-sensor spatial awareness, a timer-based spatial bypass algorithm, and Bluetooth manual override. 
+> An open-source, Arduino-powered smart cleaning robot featuring triple ultrasonic sensor spatial awareness, a timer-based spatial bypass algorithm, and Bluetooth manual override. 
 
 ## Project Overview
 
