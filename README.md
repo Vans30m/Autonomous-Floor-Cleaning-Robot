@@ -84,10 +84,6 @@ The cleaning mechanism uses a dedicated DC mop motor driven by a PWM-controlled 
   <img src="./Images%20and%20Videos/CLEANING%20ROBOT%20(Circuit%20Diagram%20LABLED).png" alt="Labeled Circuit Diagram" width="850">
 </p>
 
-<p align="center">
-  <b>Description Chart</b><br>
-  <img src="./Images%20and%20Videos/DESCRIPTION%20CHART.png" alt="Description Chart" width="850">
-</p>
 
 <p align="center">
   <b>Working Prototype</b><br>
@@ -522,7 +518,6 @@ Autonomous-Floor-Cleaning-Robot/
 │   ├── Autonomous-Floor-Cleaning-Robot.png
 │   ├── Block_Diagram.png
 │   ├── CLEANING ROBOT (Circuit Diagram LABLED).png
-│   ├── DESCRIPTION CHART.png
 │   ├── SDG.png
 │   └── Video with voiceover.mp4
 │
