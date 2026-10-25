@@ -76,23 +76,22 @@ The cleaning mechanism uses a dedicated DC mop motor driven by a PWM-controlled 
 
 <p align="center">
   <b>Block Diagram</b><br>
-  <img src="./Images%20and%20Videos/Block_Diagram.png" alt="System Block Diagram" width="850">
+  <img src="./Images%20and%20Videos/Block_Diagram.png" alt="System Block Diagram" style="max-width: 100%; height: auto;" width="850">
 </p>
 
 <p align="center">
   <b>Circuit Diagram</b><br>
-  <img src="./Images%20and%20Videos/CLEANING%20ROBOT%20(Circuit%20Diagram%20LABLED).png" alt="Labeled Circuit Diagram" width="850">
+  <img src="./Images%20and%20Videos/CLEANING%20ROBOT%20(Circuit%20Diagram%20LABLED).png" alt="Labeled Circuit Diagram" style="max-width: 100%; height: auto;" width="850">
 </p>
-
 
 <p align="center">
   <b>Working Prototype</b><br>
-  <img src="./Images%20and%20Videos/Autonomous-Floor-Cleaning-Robot.png" alt="Physical Robot Prototype" width="850">
+  <img src="./Images%20and%20Videos/Autonomous-Floor-Cleaning-Robot.png" alt="Physical Robot Prototype" style="max-width: 100%; height: auto;" width="850">
 </p>
 
 <p align="center">
   <b>SDG Alignment</b><br>
-  <img src="./Images%20and%20Videos/SDG.png" alt="Sustainable Development Goals" width="850">
+  <img src="./Images%20and%20Videos/SDG.png" alt="Sustainable Development Goals" style="max-width: 100%; height: auto;" width="850">
 </p>
 
 ### Demonstration Video
